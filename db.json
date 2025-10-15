@@ -1,0 +1,36 @@
+{
+  "all-resumes": [
+    {
+      "id": "d378",
+      "professionalData": {
+        "name": "Gautham Joshy",
+        "jobTitle": "Developer",
+        "location": "Kochi",
+        "email": "gauthamjoshy32@gmail.com",
+        "phone": "7025441105",
+        "github": "https://github.com/gauthamjoshy",
+        "linkedin": "https://www.linkedin.com/in/gautham-joshy-35924a236",
+        "portfolio": ""
+      },
+      "educationalData": {
+        "course": "B-Tech",
+        "college": "AACET",
+        "university": "APJ KTU",
+        "year": "2025"
+      },
+      "experience": {
+        "jobRole": "Internship",
+        "company": "Luminat Technolab",
+        "jobLocation": "Kakkanad",
+        "duration": "6 Months"
+      },
+      "skill": [
+        "HTML",
+        "CSS",
+        "JS",
+        "REACT"
+      ],
+      "summary": "MERN Stack Intern | Web Development Enthusiast | Angular • React • Node.js • MongoDB"
+    }
+  ]
+}
