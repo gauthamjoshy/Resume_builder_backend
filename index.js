@@ -8,7 +8,7 @@ const rBuilder = JSONServer.create()
 const middleware = JSONServer.defaults()
 
 // 6 import db.json file
-const router = JSONServer.router("db,json")
+const router = JSONServer.router("db.json")
 
 // 4 define port to run the json server
 const PORT = 3000 || process.env.PORT
